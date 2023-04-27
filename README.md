@@ -1,6 +1,6 @@
 # PC_LABS
 ## Parallel Computing : 
-+It is the use of multiple processing elements simultaneously for solving any problem. Problems are broken down into instructions and are solved concurrently as each resource that has been applied to work is working at the same time. 
++ It is the use of multiple processing elements simultaneously for solving any problem. Problems are broken down into instructions and are solved concurrently as each resource that has been applied to work is working at the same time. 
 
 + Advantages of Parallel Computing over Serial Computing are as follows: 
 
